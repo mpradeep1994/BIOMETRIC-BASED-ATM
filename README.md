@@ -5,4 +5,5 @@
 •	Pulished a research paper in Machine learning for authentificating users based on IRIS titled under “Secure Banking 	Based on Machine Learning in IRIS Pattern Recognition” in International Journal of Control Theory and Applications. 	ISSN: 0974-5572
 ```
 
+[Intro.pdf](http://serialsjournals.com/serialjournalmanager/pdf/1505736013.pdf)
 [embed]http://serialsjournals.com/serialjournalmanager/pdf/1505736013.pdf[/embed]
